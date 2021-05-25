@@ -1,3 +1,6 @@
+# ID and Name
+* 20M31355
+* QIAN ZECHANG
 # hpc_lecture
 
 |          | Topic                                | Sample code               |
